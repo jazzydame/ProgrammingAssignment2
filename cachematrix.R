@@ -36,5 +36,3 @@ cacheSolve <- function(x=matrix(), ...) {
   m
 }
 
-## a <- makeCacheMatrix()
-## a$set(matrix(1:4,2,2)
